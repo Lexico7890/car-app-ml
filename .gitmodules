@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Lexico7890/frontend.git
+[submodule "backend-api"]
+	path = backend-api
+	url = https://github.com/Lexico7890/backend-api.git
+[submodule "ml-worker"]
+	path = ml-worker
+	url = https://github.com/Lexico7890/ml-worker.git
